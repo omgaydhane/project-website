@@ -1,0 +1,7 @@
+format: jb-book
+root: intro
+chapters:
+  - file: resume
+  - file: final_code
+  - file: experiments_links
+  - file: docker_streamlit_links

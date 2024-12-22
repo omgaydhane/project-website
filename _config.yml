@@ -1,0 +1,8 @@
+title: Breast Cancer Diagnosis Project
+author: Om Gaydhane
+
+repository:
+  url: https://github.com/omgaydhane/streamlit-app-breast-cancer
+  path_to_book: .
+  branch: main
+  provider: GitHub

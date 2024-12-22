@@ -1,0 +1,3 @@
+- [Docker Hub Container](https://hub.docker.com/r/omgaydhane/fastapi-rf-app/tags)
+- [Deployed Model](https://cloud.digitalocean.com/droplets/465143609/graphs?i=66d956&period=hour)
+- [Streamlit App](https://diagnosis-stream.streamlit.app)
